@@ -16,4 +16,4 @@
 
 Вот запись, демонстрирующая, как запустить игру:
 
-[![asciicast](https://asciinema.org/a/hnimGHv6VDZAEVFQgEG9sKWZa.svg)](https://asciinema.org/a/hnimGHv6VDZAEVFQgEG9sKWZa)
+[![asciicast](./brain-game.cast)
