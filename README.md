@@ -16,4 +16,4 @@
 
 Вот запись, демонстрирующая, как запустить игру:
 
-[![asciicast](./brain-game.cast)
+![asciicast](./brain-game.cast)
