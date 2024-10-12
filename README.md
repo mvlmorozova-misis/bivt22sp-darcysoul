@@ -16,4 +16,4 @@
 
 Вот запись, демонстрирующая, как запустить игру:
 
-[![asciicast](https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw.svg)](https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw)
+<a href="https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw" target="_blank"><img src="https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw.svg" /></a>
