@@ -8,7 +8,7 @@
 
 ### 3) Code Climate
 
-![codeclimate](./Code_Climate.png)
+<a href="https://codeclimate.com/github/darcysoul/bivt22sp-darcysoul/maintainability"><img src="https://api.codeclimate.com/v1/badges/1435dc3a4375b3fcc898/maintainability" /></a>
 
 ### 4) Asciinema
 
@@ -16,4 +16,4 @@
 
 Вот запись, демонстрирующая, как запустить игру:
 
-[![asciicast](https://asciinema.org/a/hnimGHv6VDZAEVFQgEG9sKWZa.svg)](https://asciinema.org/a/hnimGHv6VDZAEVFQgEG9sKWZa)
+<a href="https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw" target="_blank"><img src="https://asciinema.org/a/GYTNMMXDTQ9jaUUOzqeC3gKYw.svg" /></a>

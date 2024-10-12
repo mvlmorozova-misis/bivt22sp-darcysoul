@@ -7,7 +7,7 @@ lint:
 	$(LINTER) .
 
 run:
-	$(PYTHON) -m src.brain-games
+	$(PYTHON) -m bin.brain_games
 
 clean:
 	find . -name "__pycache__" -exec rm -r {} +
